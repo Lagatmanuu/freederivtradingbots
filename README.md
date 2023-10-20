@@ -1,0 +1,2 @@
+# freederivtradingbots
+Deriv trading bots
